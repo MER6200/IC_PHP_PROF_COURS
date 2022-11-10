@@ -16,7 +16,7 @@ class ProfCoursTest extends TestCase
     const DB_USER = "root";
     const DB_PASS = "";
     const DB_NAME = "##db_name##";
-    const DB_HOST = "http://localhost/";
+    const DB_HOST = "http://localhost";
 
     public static $conn = null;
     // Prof
