@@ -83,6 +83,7 @@ class ProfCoursTest extends TestCase
             new Prof("Nom_prof10", "Prenom_prof10", "10/10/1982", "lieu_prof10")    // idprof = 10      ** A MODIFIER **
         ];
 
+
         self::$cours_a = [
             new Cours("IoT", "10", 1),       // idcours = 1
             new Cours("IA", "12", 3),     // idcours = 2
